@@ -1,16 +1,37 @@
-## Hi there 👋
+### Full-Stack Web Developer
 
-<!--
-**Wadiou/Wadiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Greetings!** I Full-Stack Web Developer with a proven ability to design, develop, and deploy robust, user-centric applications. My expertise spans the entire development lifecycle, from conceptualization and design to implementation and maintenance.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Proficiencies
+
+My skill set encompasses a comprehensive range of modern web technologies, allowing me to build complete and scalable applications.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend Development** | React, TypeScript, Tailwind CSS, JavaScript |
+| **Backend Development** | Node.js, Express.js, RESTful APIs |
+| **Database Management** | PostgreSQL, MongoDB |
+| **Tools & Protocols** | JSON Web Tokens (JWT) |
+| **Programming Languages** | Python, C++, Java, Bash |
+
+***
+
+### Professional Development and Future Endeavors
+
+I am a strong advocate for continuous learning and professional growth. My current focus is on expanding my technical capabilities to include advanced concepts in web architecture and security. I am actively studying:
+
+* **Advanced Authentication:** OAuth
+* **Real-Time Data Communication:** WebSockets
+* **Efficient Querying:** GraphQL
+* **Deployment & Cloud Services:** Docker, AWS
+* **Data Caching and Performance Optimization:** Redis
+
+Additionally, I am in the early stages of exploring the field of Artificial Intelligence and its applications in web development. I'm excited to learn how to integrate machine learning and AI into my projects to create more intelligent and dynamic user experiences.
+
+***
+
+### Contact Information
+
+-   **Email:** Wadiouyt@gmail.com
